@@ -1,4 +1,6 @@
 # Cal-Ripkin-Jr-vs-Others
+# Purpose
+This project came from a conversation on Twitter on how Ripkin stats hold up playing everyday vs players who play most games in today's game and other comparable players to the Iron Man.
 
 #  Data Sources
 All my data came from Baseball-Reference
